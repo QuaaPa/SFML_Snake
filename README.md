@@ -1,4 +1,4 @@
-![Snake Game GIF](https://github.com/QuaaPa/SFML_Snake/blob/main/GIF.mp4)
+![Snake Game GIF](https://github.com/QuaaPa/SFML_Snake/blob/main/GIF.gif)
 
 
 **English:**
