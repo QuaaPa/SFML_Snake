@@ -1,3 +1,6 @@
+![Snake Game GIF](https://github.com/QuaaPa/SFML_Snake/blob/main/GIF.mp4)
+
+
 **English:**
 
 ### Snake Game Instructions
